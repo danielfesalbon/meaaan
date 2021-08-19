@@ -1,7 +1,7 @@
 # MEAN STACK working implementation sample
 
 ### Application Diagram
-![alt text](https://github.com/danielfesalbon/mean-stack/blob/main/images/diagram.PNG?raw=true)
+![alt text](https://github.com/danielfesalbon/mean-stack/blob/main/images/diagram.png?raw=true)
 
 **mean stack** stands for:
  - **M**ongo DB
